@@ -1,0 +1,19 @@
+{
+  "name": "talk-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon -q ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "fs-extra": "^8.1.0",
+    "glob": "^7.1.6",
+    "nodemon": "^2.0.2",
+    "path": "^0.12.7"
+  }
+}
